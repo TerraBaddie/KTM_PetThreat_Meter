@@ -123,10 +123,10 @@ local spellaggrolevel = {
 -- aggro value for each rank
 local spellaggro = {
 	["Torment"] = {
-		395, 300, 215, 125,  75,  45
+		395, 300, 215, 125,  75,  45	--values if IMPROVED VOIDWALKER 3/3 talent: 513.5, 390, 279.5, 162.5, 97.5, 45
 	},
 	["Suffering"] = {
-		600, 450, 300, 150
+		600, 450, 300, 150		--values if IMPROVED VOIDWALKER 3/3 talent: 780, 585, 390, 195
 	},
 	["Growl"] = {
 		415, 320, 240, 170, 110, 65, 50
